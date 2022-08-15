@@ -1,0 +1,3 @@
+# DNSimple access credentials; these may also be set on the DNSimple Provider directly
+export DNSIMPLE_TOKEN="..."
+export DNSIMPLE_ACCOUNT="..."
