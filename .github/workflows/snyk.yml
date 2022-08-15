@@ -19,7 +19,6 @@ jobs:
           - "./examples/basic/outputs.tf"
           - "./examples/basic/providers.tf"
           - "./examples/basic/terraform.tf"
-          - "./examples/basic/variables.tf"
 
     steps:
       - name: Checkout Repository
